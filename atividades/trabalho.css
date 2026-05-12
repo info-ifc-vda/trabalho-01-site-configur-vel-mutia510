@@ -1,0 +1,16 @@
+
+
+.navbar-brand{
+    font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.thumb-click:hover {
+        border-color: #198754 !important;
+        transform: scale(1.05);
+        transition: 0.2s;
+    }
+    
+    #imgDestaque {
+        transition: opacity 0.3s ease-in-out;
+    }
